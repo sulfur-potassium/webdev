@@ -1,1 +1,27 @@
 
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	color:#FFFFFF;
+	font-size: 16px;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style: none;
+}
+
+.header {
+	width: 100%;
+	background:#000;
+	display: flex;
+	background: url('https://s3-alpha-sig.figma.com/img/02b1/2b4c/ca7ba4eb0cc00901770994d6ea086bc8?Expires=1605484800&Signature=NLFZWRzqXXCsDH~e-pGlJUarwpEgMZcv5MxGyPTzcnl9-a644kjb6jCYVMUJQ7Can5~GFigwlcbhRE3Pqm~Yh0mZh2-l4KBJb9lp5rrHon1Pznqv7uXsl1X0XU3wgpyhS9j2RuaCscbuhWwMhNATIDVF0im7JyIzILXhjnCrwRQpb-yGDBbzcLeLS1Aorw38vvnpkxREua5z73k-4HLmzmCD8jaKap7HEkfpOX~6eT-amrtMgXPX6NON2e0cMYYCyfGvlQihtYf9G7sdU-WqOh7uya1MqQrncsVx2EgiY~zIvrvmjQ1CJbfMOG2tvhlLR1mGVWRnE44MMkw0TVq87Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA') no-repeat center top;
+}
